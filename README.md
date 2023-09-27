@@ -2,12 +2,16 @@
 Task 1: Complete Frontend Implementation for Todo application
 
 **Project Title**: To do application
+
 **Complexity**: Easy
-P**roject Description**:
+
+**Project Description**:
 Develop a To-Do application that enables users to create, manage, and track tasks in an organized manner.
 Project Technology: React, HTML, CSS, Express JS, MongoDB.
 
+
 **Feature Tasks**:
+
 **Technology Selected:**
 1.JavaScript
 2.HTML
