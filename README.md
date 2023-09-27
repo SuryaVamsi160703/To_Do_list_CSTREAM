@@ -14,16 +14,23 @@ Project Technology: React, HTML, CSS, Express JS, MongoDB.
 
 **Technology Selected:**
 1.JavaScript
+
 2.HTML
+
 3.CSS
 
 **Acceptance Criteria:**
-1.Provide a dashboard to display the tasks list
-2.Option to create a task
-3.Option to edit a task
-4.Option to delete a task
+**1.** Provide a dashboard to display the tasks list
+
+**2.** Option to create a task
+
+**3.** Option to edit a task
+
+**4.** Option to delete a task
+
 
 **Recommended Feature Functionality per Technology**:
+
 **1.React or JavaScript**
 i.Checkboxes
 ii.Button element
